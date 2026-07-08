@@ -1,6 +1,6 @@
-cern_ohl_p_text = """CERN Open Hardware Licence Version 2 - Permissive
+# CERN Open Hardware Licence Version 2 - Permissive
 
-Preamble
+## Preamble
 
 CERN has developed this licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs. Version 2 of the CERN Open Hardware Licence comes in three variants: this licence, CERN-OHL-P (permissive); and two reciprocal licences: CERN-OHL-W (weakly reciprocal) and CERN-OHL-S (strongly reciprocal).
 
@@ -8,41 +8,41 @@ The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it, in unmodifie
 
 Use of this Licence does not imply any endorsement by CERN of any Licensor or their designs nor does it imply any involvement by CERN in their development.
 
-1 Definitions
+## 1. Definitions
 
-1.1 'Licence' means this CERN-OHL-P.
-1.2 'Source' means information such as design materials or digital code which can be applied to Make or test a Product or to prepare a Product for use, Conveyance or sale, regardless of its medium or how it is expressed. It may include Notices.
-1.3 'Covered Source' means Source that is explicitly made available under this Licence.
-1.4 'Product' means any device, component, work or physical object, whether in finished or intermediate form, arising from the use, application or processing of Covered Source.
-1.5 'Make' means to create or configure something, whether by manufacture, assembly, compiling, loading or applying Covered Source or another Product or otherwise.
-1.6 'Notice' means copyright, acknowledgement and trademark notices, references to the location of any Notices, modification notices (subsection 3.3(b)) and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Covered Source.
-1.7 'Licensee' or 'You' means any person exercising rights under this Licence.
-1.8 'Licensor' means a person who creates Source or modifies Covered Source and subsequently Conveys the resulting Covered Source under the terms and conditions of this Licence. A person may be a Licensee and a Licensor at the same time.
-1.9 'Convey' means to communicate to the public or distribute.
+*   **1.1** 'Licence' means this CERN-OHL-P.
+*   **1.2** 'Source' means information such as design materials or digital code which can be applied to Make or test a Product or to prepare a Product for use, Conveyance or sale, regardless of its medium or how it is expressed. It may include Notices.
+*   **1.3** 'Covered Source' means Source that is explicitly made available under this Licence.
+*   **1.4** 'Product' means any device, component, work or physical object, whether in finished or intermediate form, arising from the use, application or processing of Covered Source.
+*   **1.5** 'Make' means to create or configure something, whether by manufacture, assembly, compiling, loading or applying Covered Source or another Product or otherwise.
+*   **1.6** 'Notice' means copyright, acknowledgement and trademark notices, references to the location of any Notices, modification notices (subsection 3.3(b)) and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Covered Source.
+*   **1.7** 'Licensee' or 'You' means any person exercising rights under this Licence.
+*   **1.8** 'Licensor' means a person who creates Source or modifies Covered Source and subsequently Conveys the resulting Covered Source under the terms and conditions of this Licence. A person may be a Licensee and a Licensor at the same time.
+*   **1.9** 'Convey' means to communicate to the public or distribute.
 
-2 Applicability
+## 2. Applicability
 
-2.1 This Licence governs the use, copying, modification, Conveying of Covered Source and Products, and the Making of Products. By exercising any right granted under this Licence, You irrevocably accept these terms and conditions.
-2.2 This Licence is granted by the Licensor directly to You, and shall apply worldwide and without limitation in time.
-2.3 You shall not attempt to restrict by contract or otherwise the rights granted under this Licence to other Licensees.
-2.4 This Licence is not intended to restrict fair use, fair dealing, or any other similar right.
+*   **2.1** This Licence governs the use, copying, modification, Conveying of Covered Source and Products, and the Making of Products. By exercising any right granted under this Licence, You irrevocably accept these terms and conditions.
+*   **2.2** This Licence is granted by the Licensor directly to You, and shall apply worldwide and without limitation in time.
+*   **2.3** You shall not attempt to restrict by contract or otherwise the rights granted under this Licence to other Licensees.
+*   **2.4** This Licence is not intended to restrict fair use, fair dealing, or any other similar right.
 
-3 Copying, modifying and Conveying Covered Source
+## 3. Copying, modifying and Conveying Covered Source
 
-3.1 You may copy and Convey verbatim copies of Covered Source, in any medium, provided You retain all Notices.
-3.2 You may modify Covered Source, other than Notices.
-3.3 You may Convey modified Covered Source, provided that You comply with subsection 3.1.
+*   **3.1** You may copy and Convey verbatim copies of Covered Source, in any medium, provided You retain all Notices.
+*   **3.2** You may modify Covered Source, other than Notices.
+*   **3.3** You may Convey modified Covered Source, provided that You comply with subsection 3.1.
 
-4 Making and Conveying Products
+## 4. Making and Conveying Products
 
 You may Make Products, and/or Convey them, provided that You ensure that the Notices are preserved. You are not required to provide the Covered Source to the recipients of the Products.
 
-5 Patents
+## 5. Patents
 
-5.1 Each Contributor grants You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to Make, have Made, use, offer to sell, sell, import, and otherwise transfer the Covered Source and Products.
+*   **5.1** Each Contributor grants You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to Make, have Made, use, offer to sell, sell, import, and otherwise transfer the Covered Source and Products.
 
-6 DISCLAIMER AND LIABILITY
+## 6. DISCLAIMER AND LIABILITY
 
-6.1 DISCLAIMER OF WARRANTY -- The Covered Source and any Products are provided 'as is' and any express or implied warranties, including, but not limited to, implied warranties of merchantability, of satisfactory quality, non-infringement of third party rights, and fitness for a particular purpose or use are disclaimed in respect of any Source or Product to the maximum extent permitted by law.
-6.2 LIMITATION OF LIABILITY -- In no event shall CERN or any Licensor be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of the Covered Source or any Product, even if advised of the possibility of such damage.
-"""
+*   **6.1 DISCLAIMER OF WARRANTY** -- The Covered Source and any Products are provided 'as is' and any express or implied warranties, including, but not limited to, implied warranties of merchantability, of satisfactory quality, non-infringement of third party rights, and fitness for a particular purpose or use are disclaimed in respect of any Source or Product to the maximum extent permitted by law.
+*   **6.2 LIMITATION OF LIABILITY** -- In no event shall CERN or any Licensor be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of the Covered Source or any Product, even if advised of the possibility of such damage.
+
