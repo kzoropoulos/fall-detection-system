@@ -1,13 +1,13 @@
 # Fall Detection System
 
 ## Abstract
-A comprehensive fall detection system designed for elderly support. It utilizes millimeter-wave (mmWave) radar technology for continuous, contactless tracking of position and micro-motions (vital signs), with an emphasis on low power consumption and privacy preservation.
+A comprehensive fall detection system designed for elderly support. It utilizes millimeter-wave (mmWave) radar technology for continuous, contactless tracking of position, with an emphasis on low power consumption and privacy preservation.
 
 ## System Architecture
 The system is divided into two primary subsystems:
 
-*   **Sensor Nodes:** Autonomous ceiling-mounted units. They integrate a mmWave radar (60GHz/24GHz) for point cloud processing, a PIR sensor for hardware wake-up, and a low-power microcontroller. Powered by Lithium Thionyl Chloride (Li-SOCl2) batteries.
-*   **Central Hub:** Data collection and processing unit. It operates as a Zigbee Coordinator, verifies fall events, and routes emergency notifications via Wi-Fi/Ethernet. Supported by an uninterruptible power supply system (UPS/Backup battery).
+*   **Sensor Nodes:** Autonomous ceiling-mounted units. They integrate a mmWave radar for point cloud processing, a PIR sensor for hardware wake-up, and a low-power microcontroller. Powered by Lithium Thionyl Chloride (Li-SOCl2) batteries.
+*   **Central Hub:** Data collection and processing unit. It operates as a Zigbee Coordinator, verifies fall events, and routes emergency notifications via Wi-Fi. Supported by an uninterruptible power supply system (Backup battery).
 
 ## Repository Structure
 This repository is organized into the following directories:
